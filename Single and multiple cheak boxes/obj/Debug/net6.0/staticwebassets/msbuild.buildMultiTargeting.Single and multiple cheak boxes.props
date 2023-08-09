@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Single and multiple cheak boxes.props" />
+</Project>
